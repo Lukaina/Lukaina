@@ -1,6 +1,6 @@
 ## console.log("¡Hello World! I'm Verónica Alcaraz 👋🏽")
 
-<img align='right' src="https://i.pinimg.com/originals/cc/37/85/cc37857e20f173102d8dbee4423b97eb.gif" width="400">
+<img align='right' src="https://i.pinimg.com/originals/cc/37/85/cc37857e20f173102d8dbee4423b97eb.gif" width="350">
 
 <!--
 **Lukaina/Lukaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
