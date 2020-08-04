@@ -8,7 +8,7 @@
 Philosophy student <a href="http://www.udea.edu.co/wps/portal/udea/web/inicio/!ut/p/z1/hY7LDoIwEEW_hQVbOiCY6q5BXCAKJhixGwOmFkyhpCD8vo0aExMfs5u5554MoihDtMmHiud9JZtc6P1Ap0c88x2buBBhwEsg2zQK3N0aIPbQ_h9AdQxfhoDu0zvyMsDK9rQhSDZp7CeL0HkCPxwholzI4vEuaYoJ5ogqdmaKKeuq9Lns-7abm2DCOI4Wl5ILZp1kbcKnSim7HmXvJGrrDC6eGCJiGDfCwP1f/dz/d5/L2dBISEvZ0FBIS9nQSEh/">Universidad de Antioquia</a></br>
 Illustrator empiric self-taught</em>
 
-<img align='right' src="https://user-images.githubusercontent.com/60724393/89239174-1a4d5680-d5be-11ea-8355-d6a74d620fba.png" width="350" height="300"
+![myAvatar (1)](https://user-images.githubusercontent.com/60724393/89239490-f4748180-d5be-11ea-96ee-7dc10143d2ae.png)
 
 - 🌱 I’m currently learning Front-end web development, illustration, philosophy and 
 trust myself more. 😊
