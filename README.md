@@ -1,4 +1,4 @@
-<h2 align="center">console.log("¡Hello World! I'm Verónica Alcaraz 👋🏽")</h3>
+<h1 align="center">console.log("¡Hello World! I'm Verónica Alcaraz 👋🏽")</h1>
 
 ## ¡Nice to meet you. Thanks for visiting my github! <img src="https://i.pinimg.com/originals/61/28/05/612805e10a37f001a45e102d64453259.gif" width="200" height="50">
 
