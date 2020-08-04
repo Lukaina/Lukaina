@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Front-end web development, english, illustration, philosophy and 
 trust myself more. 😊
-- 💬 Ask me for a hand if you want to work on reducing the gender gap through technology, art and philosophy. <img src="https://data.whicdn.com/images/201613009/original.gif" width="200" height="100">
+- 💬 Ask me for a hand if you want to work on reducing the gender gap through technology, art and philosophy. <img src="https://data.whicdn.com/images/201613009/original.gif" width="150" height="100">
 - 😄 Pronouns: ...
 - 📫 How to reach me: ...
 
