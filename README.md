@@ -1,5 +1,7 @@
 <h1 align="center">console.log("¡Hello World! I'm Verónica Alcaraz 👋🏽")</h1>
 
+<img align="center" src="https://examtimeassets.s3.amazonaws.com/uploads/media/direct/d966289b1a99d6f4ee8cd0dd7be8b1e4/computadora.gif" width="350">
+
 ## ¡Nice to meet you. Thanks for visiting my github! <img src="https://i.pinimg.com/originals/61/28/05/612805e10a37f001a45e102d64453259.gif" width="200" height="50">
 
 **I am very passionate about the visual, arts, technology and the social causes.**
