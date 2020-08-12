@@ -11,16 +11,16 @@
 🌸 Illustrator empiric self-taught</br>
 🌸 Grapic design</em>
 
-- 🌱 I’m currently learning Front-end web development, english, illustration, philosophy and 
+🌱 I’m currently learning Front-end web development, english, illustration, philosophy and 
 trust myself more. 😊
-- 💬 Ask me for a hand if you want to work on reducing the gender gap through technology, art and philosophy.<img src="https://media1.giphy.com/media/QsaiIvycrS0Yq4Apf7/source.gif" width="150" height="50">
-- 😄 Pronouns: She/her
-- ## 📫 Contact Me
+💬 Ask me for a hand if you want to work on reducing the gender gap through technology, art and philosophy.<img src="https://media1.giphy.com/media/QsaiIvycrS0Yq4Apf7/source.gif" width="150" height="50">
+😄 Pronouns: She/her
+## 📫 Contact Me
 - Twitter - [@Lukaina_co](https://twitter.com/Lukaina_co)
 - Instagram - [https://www.instagram.com/lukaina_co/](https://www.instagram.com/lukaina_co/)
 - LinkedIn - [Verónica Alcaraz Machado](https://www.linkedin.com/in/ver%C3%B3nica-alcaraz-machado-5114561aa/)
 
-- ## 🔨 More of my works in
+## 🔨 More of my works in
 - CodePen - [@veroalcaraz](https://codepen.io/veroalcaraz)
 
 <!--
