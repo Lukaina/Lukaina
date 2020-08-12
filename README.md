@@ -21,7 +21,7 @@ trust myself more. 😊
 - LinkedIn - [Verónica Alcaraz Machado](https://www.linkedin.com/in/ver%C3%B3nica-alcaraz-machado-5114561aa/)
 
 - ## 🔨 More of my works in
-- CodePen - [@veroalcaraz](https://www.linkedin.com/in/ver%C3%B3nica-alcaraz-machado-5114561aa/)
+- CodePen - [@veroalcaraz](https://codepen.io/veroalcaraz)
 
 <!--
 **Lukaina/Lukaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
