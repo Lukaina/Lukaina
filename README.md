@@ -11,11 +11,10 @@
 🌸 Illustrator empiric self-taught</br>
 🌸 Grapic design</em>
 
-🌱 I’m currently learning Front-end web development, english, illustration, philosophy and 
+-🌱 I’m currently learning Front-end web development, english, illustration, philosophy and 
 trust myself more. 😊
-💬 Ask me for a hand if you want to work on reducing the gender gap through technology, art and philosophy.<img src="https://media1.giphy.com/media/QsaiIvycrS0Yq4Apf7/source.gif" width="150" height="50">
-
-😄 Pronouns: She/her
+-💬 Ask me for a hand if you want to work on reducing the gender gap through technology, art and philosophy.<img src="https://media1.giphy.com/media/QsaiIvycrS0Yq4Apf7/source.gif" width="150" height="50">
+-😄 Pronouns: She/her
 
 ## 📫 Contact Me
 - Twitter - [@Lukaina_co](https://twitter.com/Lukaina_co)
