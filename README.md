@@ -14,11 +14,10 @@
 - 🌱 I’m currently learning Front-end web development, english, illustration, philosophy and 
 trust myself more. 😊
 - 💬 Ask me for a hand if you want to work on reducing the gender gap through technology, art and philosophy.<img src="https://media1.giphy.com/media/QsaiIvycrS0Yq4Apf7/source.gif" width="150" height="50">
-- 😄 Pronouns: ...
-- 📫 How to reach me: ...
-
-<img align='right' src="https://i.pinimg.com/originals/cc/37/85/cc37857e20f173102d8dbee4423b97eb.gif" width="350">
-
+- 😄 Pronouns: She/her
+- ## 📫 Contact Me
+- Twitter - [@vanessamarely](https://twitter.com/vanessamarely)
+- LinkedIn - [Verónica Alcaraz Machado](https://www.linkedin.com/in/ver%C3%B3nica-alcaraz-machado-5114561aa/)
 <!--
 **Lukaina/Lukaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
