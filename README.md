@@ -18,7 +18,7 @@ trust myself more. 😊
 
 ## 📫 Contact Me
 - Twitter - [@Lukaina_co](https://twitter.com/Lukaina_co)
-- Instagram - [@lukaina_co](https://www.instagram.com/lukaina_co/](https://www.instagram.com/lukaina_co/)
+- Instagram - [lukaina_co](https://www.instagram.com/lukaina_co/)
 - LinkedIn - [Verónica Alcaraz Machado](https://www.linkedin.com/in/ver%C3%B3nica-alcaraz-machado-5114561aa/)
 
 ## 🔨 More of my works in
