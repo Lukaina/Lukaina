@@ -16,8 +16,13 @@ trust myself more. 😊
 - 💬 Ask me for a hand if you want to work on reducing the gender gap through technology, art and philosophy.<img src="https://media1.giphy.com/media/QsaiIvycrS0Yq4Apf7/source.gif" width="150" height="50">
 - 😄 Pronouns: She/her
 - ## 📫 Contact Me
-- Twitter - [@vanessamarely](https://twitter.com/vanessamarely)
+- Twitter - [@Lukaina_co](https://twitter.com/Lukaina_co)
+- Instagram - [https://www.instagram.com/lukaina_co/](https://www.instagram.com/lukaina_co/)
 - LinkedIn - [Verónica Alcaraz Machado](https://www.linkedin.com/in/ver%C3%B3nica-alcaraz-machado-5114561aa/)
+
+- ## 🔨 More of my works in
+- CodePen - [@veroalcaraz](https://www.linkedin.com/in/ver%C3%B3nica-alcaraz-machado-5114561aa/)
+
 <!--
 **Lukaina/Lukaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
