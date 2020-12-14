@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif" alt="computer" width="350"></p>
 
-## ¡Nice to meet you. Thanks for visiting my github! <img src="https://i.pinimg.com/originals/30/29/e0/3029e081d7064945c3ad85cc00b39b19.gif" width="200" height="200">
+## ¡Nice to meet you. Thanks for visiting my github! <img src="https://i.pinimg.com/originals/30/29/e0/3029e081d7064945c3ad85cc00b39b19.gif" width="200" height="180">
 
 **I am very passionate about the visual, arts, technology, moral philosophy and the social causes.**  <img src="https://user-images.githubusercontent.com/60724393/102133428-16122f00-3e23-11eb-8eb9-9c0701d010fd.png" align="right" width="400" height="400">
 
