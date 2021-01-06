@@ -1,4 +1,4 @@
-<h1 align="center">console.log("¡Hello World! I'm Verónica Alcaraz 👋🏽")</h1>
+<h1 align="center">console.log("Hello World! I'm Verónica Alcaraz 👋🏽")</h1>
 
 <p align="center"><img src="https://i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif" alt="computer" width="350"></p>
 
