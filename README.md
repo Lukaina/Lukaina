@@ -20,7 +20,7 @@ trust myself more. 😊
 - 😄 Pronouns: She/her
 
 ## 📫 Connect with me:
-<a href="https://twitter.com/Lukaina_co" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1383/1383265.svg?token=exp=1612376087~hmac=c3b4dd442cb4148aee621016fc9b3081" alt="@Lukaina_co" height="45" width="45" /></a>
+<a href="https://twitter.com/Lukaina_co" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1383/1383265.svg?token=exp=1612376087~hmac=c3b4dd442cb4148aee621016fc9b3081" alt="@Lukaina_co" height="45" width="45" /></a></br>
 <a href="https://www.linkedin.com/in/ver%C3%B3nica-alcaraz-machado-5114561aa/" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1383/1383262.svg?token=exp=1612376076~hmac=cc116bb0d56d7977e2847d127a0970a7" alt="Verónica Alcaraz Machado" height="45" width="45" /></a>
 
 ## 🔨 More of my works:
