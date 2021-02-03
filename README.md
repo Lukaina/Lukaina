@@ -6,11 +6,11 @@
 
 **I am very passionate about the visual, arts, technology, moral philosophy and the social causes.**  <img src="https://user-images.githubusercontent.com/60724393/102133428-16122f00-3e23-11eb-8eb9-9c0701d010fd.png" align="right" width="400" height="400">
 
-<em>🌸 Coding lover. Learner</br>
+<em>🌸 Women Techmakers Ambassador</br>
+🌸 Coding lover. Learner
 🌸 Philosophy student <a href="http://www.udea.edu.co/wps/portal/udea/web/inicio/!ut/p/z1/hY7LDoIwEEW_hQVbOiCY6q5BXCAKJhixGwOmFkyhpCD8vo0aExMfs5u5554MoihDtMmHiud9JZtc6P1Ap0c88x2buBBhwEsg2zQK3N0aIPbQ_h9AdQxfhoDu0zvyMsDK9rQhSDZp7CeL0HkCPxwholzI4vEuaYoJ5ogqdmaKKeuq9Lns-7abm2DCOI4Wl5ILZp1kbcKnSim7HmXvJGrrDC6eGCJiGDfCwP1f/dz/d5/L2dBISEvZ0FBIS9nQSEh/">Universidad de Antioquia</a></br>
 🌸 Illustrator empiric self-taught</br>
-🌸 Grapic design</br>
-🌸 Women Techmakers Ambassador</em>
+🌸 Grapic design</em>
 
 - 🌱 I’m currently learning Front-end web development, english, illustration, philosophy and 
 trust myself more. 😊
@@ -20,7 +20,7 @@ trust myself more. 😊
 - 😄 Pronouns: She/her
 
 ## 📫 Contact Me
-- Twitter - [@Lukaina_co](https://twitter.com/Lukaina_co)
+<a href="https://twitter.com/Lukaina_co" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1383/1383262.svg?token=exp=1612376076~hmac=cc116bb0d56d7977e2847d127a0970a7" alt="@Lukaina_co" height="25" width="25" /></a>
 - Instagram - [lukaina_co](https://www.instagram.com/lukaina_co/)
 - LinkedIn - [Verónica Alcaraz Machado](https://www.linkedin.com/in/ver%C3%B3nica-alcaraz-machado-5114561aa/)
 
