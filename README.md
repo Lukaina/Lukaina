@@ -22,7 +22,6 @@ trust myself more. 😊
 ## 📫 Connect with me:
 
 <a href="https://twitter.com/Lukaina_co" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/3578/3578922.svg?token=exp=1613524438~hmac=829a4735392c667a343c93ddaa524e59" alt="@Lukaina_co" height="35" width="35" /></a>
-
 <a href="https://www.linkedin.com/in/ver%C3%B3nica-alcaraz-machado-5114561aa/" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/725/725337.svg?token=exp=1613524568~hmac=ef7f7ae0d93ef6627ce7d55f4c40a498" alt="Verónica Alcaraz Machado" height="35" width="35" /></a>
 
 ## 🔨 More of my works:
