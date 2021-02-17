@@ -20,11 +20,13 @@ trust myself more. 😊
 - 😄 Pronouns: She/her
 
 ## 📫 Connect with me:
-<a href="https://twitter.com/Lukaina_co" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111703.svg?token=exp=1612377532~hmac=21974f1e150f87e63ca282ce1014511e" alt="@Lukaina_co" height="35" width="35" /></a>
-<a href="https://www.linkedin.com/in/ver%C3%B3nica-alcaraz-machado-5114561aa/" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1383/1383262.svg?token=exp=1612376076~hmac=cc116bb0d56d7977e2847d127a0970a7" alt="Verónica Alcaraz Machado" height="35" width="35" /></a>
+
+<a href="https://twitter.com/Lukaina_co" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/3578/3578922.svg?token=exp=1613524438~hmac=829a4735392c667a343c93ddaa524e59" alt="@Lukaina_co" height="35" width="35" /></a>
+
+<a href="https://www.linkedin.com/in/ver%C3%B3nica-alcaraz-machado-5114561aa/" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/725/725337.svg?token=exp=1613524568~hmac=ef7f7ae0d93ef6627ce7d55f4c40a498" alt="Verónica Alcaraz Machado" height="35" width="35" /></a>
 
 ## 🔨 More of my works:
-<a href="https://codepen.io/veroalcaraz" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111296.svg?token=exp=1612376713~hmac=fd9d49327ec8d53a6fc8e93d79049bbf" alt="@veroalcaraz" height="35" width="35" /></a>
+<a href="https://codepen.io/veroalcaraz" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111296.svg?token=exp=1613524777~hmac=7ce69029d9f77ba9ade6b2129eeff1b3" alt="@veroalcaraz" height="35" width="35" /></a>
 
 <!--
 **Lukaina/Lukaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
