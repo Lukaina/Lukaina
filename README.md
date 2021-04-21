@@ -7,7 +7,7 @@
 **I am very passionate about the visual, arts, technology, moral philosophy and the social causes.**  <img src="https://user-images.githubusercontent.com/60724393/102133428-16122f00-3e23-11eb-8eb9-9c0701d010fd.png" align="right" width="400" height="400">
 
 <em>🌸 Women Techmakers Ambassador</br>
-🌸 Coding lover. Learner</br>
+🌸 Frontend Developer Jr</br>
 🌸 Philosophy student <a href="http://www.udea.edu.co/wps/portal/udea/web/inicio/!ut/p/z1/hY7LDoIwEEW_hQVbOiCY6q5BXCAKJhixGwOmFkyhpCD8vo0aExMfs5u5554MoihDtMmHiud9JZtc6P1Ap0c88x2buBBhwEsg2zQK3N0aIPbQ_h9AdQxfhoDu0zvyMsDK9rQhSDZp7CeL0HkCPxwholzI4vEuaYoJ5ogqdmaKKeuq9Lns-7abm2DCOI4Wl5ILZp1kbcKnSim7HmXvJGrrDC6eGCJiGDfCwP1f/dz/d5/L2dBISEvZ0FBIS9nQSEh/">Universidad de Antioquia</a></br>
 🌸 Illustrator empiric self-taught</br>
 🌸 Grapic design</em>
