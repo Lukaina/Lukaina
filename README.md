@@ -25,7 +25,7 @@ trust myself more. 😊
 <a href="https://www.linkedin.com/in/ver%C3%B3nica-alcaraz-machado/" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111368.png" alt="Verónica Alcaraz Machado" height="35" width="35" /></a>
 
 ## 🔨 More of my works:
-<a href="https://codepen.io/veroalcaraz" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111262.png" alt="@veroalcaraz" height="35" width="35" /></a>
+<a href="https://codepen.io/Lukaina" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111262.png" alt="@Lukaina" height="35" width="35" /></a>
 
 <!--
 **Lukaina/Lukaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
