@@ -22,10 +22,10 @@ trust myself more. 😊
 ## 📫 Connect with me:
 
 <a href="https://twitter.com/Lukaina_co" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111580.png" alt="@Lukaina_co" height="35" width="35" /></a>
-<a href="https://www.linkedin.com/in/ver%C3%B3nica-alcaraz-machado-5114561aa/" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/725/725337.svg?token=exp=1613524568~hmac=ef7f7ae0d93ef6627ce7d55f4c40a498" alt="Verónica Alcaraz Machado" height="35" width="35" /></a>
+<a href="https://image.flaticon.com/icons/png/512/2111/2111368.png" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/725/725337.svg?token=exp=1613524568~hmac=ef7f7ae0d93ef6627ce7d55f4c40a498" alt="Verónica Alcaraz Machado" height="35" width="35" /></a>
 
 ## 🔨 More of my works:
-<a href="https://codepen.io/veroalcaraz" target="_blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111296.svg?token=exp=1613524777~hmac=7ce69029d9f77ba9ade6b2129eeff1b3" alt="@veroalcaraz" height="35" width="35" /></a>
+<a href="https://codepen.io/veroalcaraz" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111262.png" alt="@veroalcaraz" height="35" width="35" /></a>
 
 <!--
 **Lukaina/Lukaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
