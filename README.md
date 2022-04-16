@@ -21,12 +21,12 @@
 
 ## 📫 Connect with me:
 
-<a href="https://twitter.com/Lukaina_co" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/60724393/163692817-a88d5344-3de5-4988-9b19-04a0880f9df7.png" alt="@Lukaina_co" height="35" width="35" /></a>
-<a href="https://www.linkedin.com/in/ver%C3%B3nica-alcaraz-machado/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/60724393/163692852-bfe813dc-ec2a-4d82-b029-c2dd42ca525f.png" alt="Verónica Alcaraz Machado" height="35" width="35" /></a>
-<a href="https://lukaina.medium.com/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/60724393/163692877-d311e983-d07e-4a24-9a2b-773fd7e69eef.png" alt="Verónica" height="35" width="35" /></a>
+<a href="https://twitter.com/Lukaina_co" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/60724393/163692817-a88d5344-3de5-4988-9b19-04a0880f9df7.png" alt="@Lukaina_co" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/ver%C3%B3nica-alcaraz-machado/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/60724393/163692852-bfe813dc-ec2a-4d82-b029-c2dd42ca525f.png" alt="Verónica Alcaraz Machado" height="50" width="50" /></a>
+<a href="https://lukaina.medium.com/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/60724393/163692877-d311e983-d07e-4a24-9a2b-773fd7e69eef.png" alt="Verónica" height="50" width="50" /></a>
 
 ## 🔨 More of my works:
-<a href="https://codepen.io/Lukaina" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/60724393/163692932-14d8b6f6-2408-4679-83d9-5e61dc0affe3.png" alt="@Lukaina" height="35" width="35" /></a>
+<a href="https://codepen.io/Lukaina" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/60724393/163692932-14d8b6f6-2408-4679-83d9-5e61dc0affe3.png" alt="@Lukaina" height="50" width="50" /></a>
 
 <!--
 **Lukaina/Lukaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
