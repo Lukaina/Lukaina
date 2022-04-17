@@ -1,6 +1,6 @@
 <div  align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=8000&color=E007F7&width=403&height=43&lines=console.log(%22Hi+World!;I'm+Ver%C3%B3nica+%F0%9F%91%8B%F0%9F%8F%BD%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=8000&color=D909F7&width=399&height=44&lines=console.log(%22Hi+World!;I'm+Ver%C3%B3nica+%F0%9F%91%8B%F0%9F%8F%BD%22))](https://git.io/typing-svg)
   
  </div>
 
