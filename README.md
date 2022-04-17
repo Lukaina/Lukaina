@@ -1,4 +1,9 @@
-<h1 align="center">console.log("Hello World! I'm Verónica Alcaraz 👋🏽")</h1>
+<div  align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=8000&color=E007F7&width=403&height=43&lines=console.log(%22Hi+World!;I'm+Ver%C3%B3nica+%F0%9F%91%8B%F0%9F%8F%BD%22))](https://git.io/typing-svg)
+  
+ </div>
+
 
 <p align="center"><img src="https://i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif" alt="computer" width="350"></p>
 
